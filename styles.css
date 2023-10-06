@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
     /* variables */
     --cg-black: rgb(30, 32, 32);
@@ -313,4 +314,8 @@ h3 {
 
 .no_content {
     font-size: 50px;
+=======
+.navbar {
+    display: fl
+>>>>>>> ea9790550176d4bd0bd7fda2cce3c571fe7d07b9
 }
